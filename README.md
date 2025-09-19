@@ -2,6 +2,8 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20606843)
 # Ejercicios aprendiendo Git - GitHub Classroom
 
+
+
 Aquí les dejo una colección completa de ejercicios progresivos para aprender Git y GitHub, diseñados para GitHub Classroom con autocalificación automática usando Jest.
 
 ## 📖 Recursos Adicionales
@@ -126,3 +128,8 @@ Cada ejercicio es evaluado automáticamente en base a:
 ---
 
 **¡Feliz aprendizaje con Git! 🎉**
+
+
+## Última actualización
+Editado desde GitHub web interface
+
