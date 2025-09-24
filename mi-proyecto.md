@@ -1,9 +1,11 @@
 # Mi Proyecto Git
-
 Este es mi primer proyecto usando Git.
 
-## Ãšltima actualizaciÃ³n
+## Última actualización
 Editado desde GitHub web interface
 
-## InformaciÃ³n del proyecto
-VersiÃ³n combinada de ambas ramas
+## Información del proyecto
+Versión combinada de ambas ramas
+
+## Características
+Aprendiendo Git paso a paso
